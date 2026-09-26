@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Walid Idrissi</title>
+  <desc id="desc">Developer tools. Cloud systems. An obsidian banner with silver typography and a sculptural cyan orbital form.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111318"/><stop offset=".5" stop-color="#090B10"/><stop offset="1" stop-color="#0C141D"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="0" cy="0" r="1" gradientTransform="translate(964 169) rotate(90) scale(239 344)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#127694" stop-opacity=".22"/><stop offset="1" stop-color="#0A0C11" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="silver" x1="64" y1="107" x2="502" y2="203" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset=".65" stop-color="#E6EBF2"/><stop offset="1" stop-color="#97A6B7"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="790" y1="42" x2="1080" y2="274" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#386075" stop-opacity=".08"/><stop offset=".3" stop-color="#5B94AB" stop-opacity=".5"/>
+      <stop offset=".55" stop-color="#C1F4FF"/><stop offset=".72" stop-color="#61CBE7" stop-opacity=".7"/><stop offset="1" stop-color="#245C7D" stop-opacity=".06"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="720" y1="0" x2="1120" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B6E9F6" stop-opacity="0"/><stop offset=".45" stop-color="#B6E9F6" stop-opacity=".7"/><stop offset="1" stop-color="#B6E9F6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#414852"/><stop offset=".4" stop-color="#252C36"/><stop offset=".75" stop-color="#354655"/><stop offset="1" stop-color="#1D2631"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x=".5" y=".5" width="1199" height="319" rx="18"/></clipPath>
+    <filter id="glow" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#base)"/>
+    <rect width="1200" height="320" fill="url(#ambient)"/>
+    <path d="M670 320 990 0M866 320 1186 0" stroke="#A0C1DB" stroke-opacity=".035"/>
+    <path d="M65 62H81M73 54V70" stroke="#9CAAB9" stroke-width="1.5"/>
+    <text x="98" y="67" font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3.1" fill="#A6B1BF">WALID / LABS</text>
+    <text x="61" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="600" letter-spacing="-3.6" fill="url(#silver)">Walid Idrissi</text>
+    <text x="65" y="207" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" letter-spacing=".15" fill="#A6B2C1">Developer tools. Cloud systems.</text>
+    <path d="M65 260H91" stroke="#8DDCEE" stroke-width="2"/>
+    <text x="107" y="264" font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.1" fill="#788799">GO / TYPESCRIPT / AWS / TERRAFORM</text>
+    <g transform="rotate(-32 949 154)">
+      <ellipse cx="949" cy="154" rx="176" ry="67" stroke="#7DDBF5" stroke-opacity=".18" stroke-width="9" filter="url(#glow)"/>
+      <g stroke="url(#orbit)" stroke-width="1">
+        <ellipse cx="949" cy="126" rx="176" ry="67"/><ellipse cx="949" cy="130" rx="176" ry="67"/>
+        <ellipse cx="949" cy="134" rx="176" ry="67"/><ellipse cx="949" cy="138" rx="176" ry="67"/>
+        <ellipse cx="949" cy="142" rx="176" ry="67"/><ellipse cx="949" cy="146" rx="176" ry="67"/>
+        <ellipse cx="949" cy="150" rx="176" ry="67"/><ellipse cx="949" cy="154" rx="176" ry="67"/>
+        <ellipse cx="949" cy="158" rx="176" ry="67"/><ellipse cx="949" cy="162" rx="176" ry="67"/>
+        <ellipse cx="949" cy="166" rx="176" ry="67"/><ellipse cx="949" cy="170" rx="176" ry="67"/>
+        <ellipse cx="949" cy="174" rx="176" ry="67"/><ellipse cx="949" cy="178" rx="176" ry="67"/>
+        <ellipse cx="949" cy="182" rx="176" ry="67"/>
+      </g>
+      <ellipse cx="949" cy="126" rx="176" ry="67" stroke="url(#rim)" stroke-width="1.5"/>
+      <ellipse cx="949" cy="182" rx="176" ry="67" stroke="url(#rim)" stroke-width="1.5"/>
+    </g>
+    <path d="M729 259H759M744 244V274" stroke="#516D81" stroke-opacity=".5"/>
+    <circle cx="1140" cy="60" r="2" fill="#9BDAEB" fill-opacity=".6"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="319" rx="18" stroke="url(#edge)"/>
+</svg>
