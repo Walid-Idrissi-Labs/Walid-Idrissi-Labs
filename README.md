@@ -24,7 +24,7 @@ Coding harness designed for several coding agents from one terminal, with separa
 **[tascii](https://github.com/Walid-Idrissi-Labs/tascii)** &nbsp; <sub>GO / TERMINAL</sub><br>
 Task manager for work in the terminal.
 
-**[Applyr] (https://github.com/Walid-Idrissi-Labs/Applyr)** [↗](https://applyr.walid-idrissi-labs.workers.dev/)  &nbsp; <sub>LARAVEL / REACT / BROWSER-EXTENSIONS / AI </sub><br>
+**[Applyr](https://github.com/Walid-Idrissi-Labs/Applyr)** [↗](https://applyr.walid-idrissi-labs.workers.dev/)  &nbsp; <sub>LARAVEL / REACT / BROWSER-EXTENSIONS / AI </sub><br>
 Manage job applications, tasks, and documents. Includes AI resume generation and job imports through a browser extension. 
 
 **[SLA-aware monitoring](https://github.com/Walid-Idrissi-Labs/SLA-Aware-Website-Monitoring-System)** &nbsp; <sub>AWS / Iac-Terraform / Monitoring & SLA</sub><br>
