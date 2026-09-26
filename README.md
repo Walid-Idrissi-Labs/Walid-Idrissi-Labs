@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-
+I build full-stack applications with TypeScript, React, and Next.js, and cloud solutions with AWS and Terraform.
 
 [Portfolio ↗](https://walid-idrissi.vercel.app/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/walid-idrissi-labkhati/)
 
