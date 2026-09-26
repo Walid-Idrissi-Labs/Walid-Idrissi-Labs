@@ -38,5 +38,5 @@ _I've also worked on higher scale projects such as a full **CRM for Internationa
 
 ---
 
-[Take a look at my portfolio](https://walid-idrissi.vercel.app/)
+[Take a look at my portfolio](https://walid-idrissi.vercel.app/) · 
 Contact me : [walid.idrissi.labs@gmail.com](mailto:walid.idrissi.labs@gmail.com)/[id.la.walid@gmail.com](mailto:id.la.walid@gmail.com)/
